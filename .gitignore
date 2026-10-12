@@ -54,3 +54,8 @@ secring.gpg
 
 *.apk
 
+# FVM Version Cache
+.fvm/
+
+# Generated Gradle reports
+/android/build/
